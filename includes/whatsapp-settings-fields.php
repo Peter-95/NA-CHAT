@@ -203,7 +203,7 @@ function whplugin_settings_page_content()
             </tr>
 
             <tr>
-                <th scope="row">Right Position</th>
+                <th scope="row">Right Position.</th>
                 <td><input type="number" name="Right" id="country_code" placeholder="Right"
                         value="<?php echo esc_attr( get_option('Right') ); ?>" /> px</td>
             </tr>
